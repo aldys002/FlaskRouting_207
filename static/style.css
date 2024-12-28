@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #87CEEB; /* Sky Blue */
+}
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.login-message {
+    color: #FFB6C1; /* Soft Pink */
+    font-weight: bold; /* Opsional */
+    margin-top: 10px;
+}
+
+button {
+    background-color: #87CEEB; /* Sky Blue */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6495ED; /* Cornflower Blue */
+}
